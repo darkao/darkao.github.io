@@ -22,13 +22,19 @@ entries:
 #      show_more_text: See more posts...
 #      show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
   
   - title: projelerim
     entries:
           - title: JonCrypt
             url: https://github.com/darkao/JonCrypt
+   
+   - title: iletişim
+      entries:
+            -title: mail
+             url: mailto:berkin@cetinn.co
+             
+  - title: rss
+    url: feed.xml
   #- title: PRO TIP
   #  entries:
   #    - title: to edit this menu, edit _data/menu.yml file

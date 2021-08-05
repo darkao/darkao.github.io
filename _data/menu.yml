@@ -4,8 +4,8 @@
 entries:
   - title: hakkımda
     entries:
-      - title: Only Berkin.
-      - title: Github
+      - title: only berkin
+      - title: github
         url: https://github.com/darkao
 
   - title: postlar
@@ -14,28 +14,15 @@ entries:
       show_more: true
       show_more_text: arşiv...
       show_more_url: archive.html
+
+  - title: projeler
+    entries:
+      - title: JonCrypt
+        url: https://github.com/darkao/JonCrypt
+
+  - title: iletişim
+    entries:
+      - title: mail: berkin[at]cetinn[dot]co
       
   - title: rss
     url: feed.xml
-
-#  - title: cat
-#    post_list:
-#      category: example2
-#      show_more: true
-#      show_more_text: See more posts...
-#      show_more_url: example2-archive.html
-
-  
-  - title: projelerim
-    entries:
-          - title: JonCrypt
-            url: https://github.com/darkao/JonCrypt
-   
-   - title: iletişim
-     entries:
-           - title: mail: berkin[at]cetinn[dot]co
-
-    
-  #- title: PRO TIP
-  #  entries:
-  #    - title: to edit this menu, edit _data/menu.yml file

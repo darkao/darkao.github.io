@@ -14,6 +14,10 @@ entries:
       show_more: true
       show_more_text: arşiv...
       show_more_url: archive.html
+    
+                
+    - title: rss
+      url: feed.xml
 
 #  - title: cat
 #    post_list:
@@ -31,9 +35,7 @@ entries:
    - title: iletişim
      entries:
            - title: mail: berkin[at]cetinn[dot]co
-             
-    - title: rss
-      url: feed.xml
+
     
   #- title: PRO TIP
   #  entries:

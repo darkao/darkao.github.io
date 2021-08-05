@@ -14,10 +14,9 @@ entries:
       show_more: true
       show_more_text: arşiv...
       show_more_url: archive.html
-    
-                
-    - title: rss
-      url: feed.xml
+      
+  - title: rss
+    url: feed.xml
 
 #  - title: cat
 #    post_list:

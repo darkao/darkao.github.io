@@ -29,9 +29,8 @@ entries:
             url: https://github.com/darkao/JonCrypt
    
    - title: iletişim
-      entries:
-            - title: mail
-              url: mailto:berkin@cetinn.co
+     entries:
+           - title: mail: berkin[at]cetinn[dot]co
              
     - title: rss
       url: feed.xml
